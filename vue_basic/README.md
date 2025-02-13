@@ -1,4 +1,3 @@
-# vuex-playlist
 
 ## Project setup
 ```
